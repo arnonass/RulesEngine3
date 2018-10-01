@@ -1,0 +1,7 @@
+﻿{
+  "extensions": [
+    {
+      "TypeName": "TestFunctionApp.Startup, TestFunctionApp"
+    }
+  ]
+}

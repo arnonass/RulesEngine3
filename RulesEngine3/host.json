@@ -1,0 +1,9 @@
+{
+  "http": {
+    "routePrefix": ""
+  },
+  "Host": {
+    "LocalHttpPort": 80,
+    "CORS": "*"
+  }
+}

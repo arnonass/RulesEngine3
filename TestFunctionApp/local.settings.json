@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "ServiceBusConnectionString": "Endpoint=sb://dev-mobile-sb-w2-01.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=QHG8rei3cx9qVVULFG9mDSbIBDdkdCZOCDuDiM/npJM=",
+    "AzureWebJobs_ExtensionsPath": "."
+  }
+}
